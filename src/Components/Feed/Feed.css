@@ -1,0 +1,13 @@
+@media (max-width:900px) {
+    .castom-feeds{
+        width: 100vw;
+        flex-direction: column;
+    }
+    .cursor-pointer{
+        width: 100vw;
+    }
+    .cursor-pointer:hover{
+        background: #f3f3f3;
+    }
+
+}
